@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![cert](google-data-analytics.png)
+![cert](Google-data-analytics.png)
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
